@@ -16,6 +16,12 @@ SublimeText Syntax Highlighting support for Environment (.env) Files
 #### Manually:
 
 1. Clone the repo to your Packages folder.
+```
+cd '/Users/nathan/Library/Application Support/Sublime Text 3/Packages'
+git clone git@github.com:nathan-appere/Sublime-DotENV.git DotENV
+cd DotENV
+gco nathan
+```
 2. Activate by `Ctrl+Shift+P` and fuzzy search `syntax dotenv` and hit **`Enter`**
 
 #### Preview:

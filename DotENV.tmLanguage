@@ -12,8 +12,17 @@
 		<string>.env.example</string>
 		<string>.env.test</string>
 		<string>.env.test.local</string>
+		<string>.env.circle</string>
 		<string>.env.development</string>
 		<string>.env.development.local</string>
+		<string>.env.semilocal</string>
+		<string>.env.semilocal.local</string>
+		<string>.env.semilocal_readonly</string>
+		<string>.env.semilocal_readonly.local</string>
+		<string>.env.console_production</string>
+		<string>.env.console_production.local</string>
+		<string>.env.console_readonly</string>
+		<string>.env.console_readonly.local</string>
 		<string>.env.production</string>
 		<string>.env.production.local</string>
 		<string>.env.dusk.local</string>
